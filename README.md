@@ -1,7 +1,7 @@
 ## Hola, soy Nahuel 
 
 
-🌱 Siempre explorando nuevas formas de hacer las cosas, con curiosidad y pasión por experimentar.\
+🌱 Siempre me encuentro explorando nuevas formas de hacer las cosas, con curiosidad y pasión por experimentar.\
 🎓 Estudiante de Licenciatura en Economía y Tecnicatura en Ciencia de Datos en la Universidad de Buenos Aires.\
 📝 Tengo un gran interés en la ciencia de datos, y en formas rápidas de solucionar problemas mediante software.\
 🔭 Actualmente desarrollando proyectos y aprendiendo en Python.\
